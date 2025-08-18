@@ -12,7 +12,6 @@ public class App {
         switch(id){
             case 1 :
                 signUp();
-                System.out.println("User Signed Up successfully !! PLease Login to proceed further .\n");
                 main(args);
                 break;
 

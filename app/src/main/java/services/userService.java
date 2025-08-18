@@ -19,6 +19,12 @@ public class userService {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter username:");
         String username = sc.nextLine();
+        for(User user : users){
+            if(user.getUsername().equals(username)){
+                System.out.println("Username already in use");
+                return;
+            }
+        }
         System.out.println("Enter password:");
         String password = sc.nextLine();
         String userId = UUID.randomUUID().toString();
@@ -26,6 +32,7 @@ public class userService {
         User newUser = new User(username,password,userId,hashedPassword);
         users.add(newUser); // add new user
         writeJson(users);
+        System.out.println("User Signed Up successfully !! PLease Login to proceed further .\n");
     }
 
 
