@@ -6,8 +6,8 @@ import java.util.Scanner;
 import java.util.UUID;
 
 import entities.User;
-import static utilities.userUtil.readJson;
-import static utilities.userUtil.writeJson;
+
+import static utilities.userUtil.*;
 
 public class userService {
 
@@ -28,12 +28,11 @@ public class userService {
         System.out.println("Enter password:");
         String password = sc.nextLine();
         String userId = UUID.randomUUID().toString();
-        String hashedPassword = "";
-        User newUser = new User(username,password,userId,hashedPassword);
+        String hashedPassword = hashPassword(password);
+        User newUser = new User(username,userId,hashedPassword);
         users.add(newUser); // add new user
         writeJson(users);
         System.out.println("User Signed Up successfully !! PLease Login to proceed further .\n");
     }
-
 
 }

@@ -1,7 +1,11 @@
 [ {
   "username" : "john",
-  "password" : "johndoe@iitk",
-  "userId" : "6efeffaf-a745-4401-ba60-4fb86bcca30b",
-  "hashedPassword" : "",
+  "userId" : "c075524e-0f78-4ff2-a4aa-c5b3f8c8f38b",
+  "hashedPassword" : "c2713b62c903791bdefc5a6a99df04d4330de491bbc7a0ca6a5007337e4a6028",
+  "tickets" : [ ]
+}, {
+  "username" : "random",
+  "userId" : "967b7348-adbb-4fd2-ba1f-a50ce2b3ba83",
+  "hashedPassword" : "a441b15fe9a3cf56661190a0b93b9dec7d04127288cc87250967cf3b52894d11",
   "tickets" : [ ]
 } ]

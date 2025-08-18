@@ -7,7 +7,6 @@ public class User {
 
     // Attributes of user
     private String username;
-    private String password;
     private String userId;
     private String hashedPassword;
     private List<Ticket> tickets;
@@ -18,9 +17,8 @@ public class User {
     }
 
     // Parameterized constructor
-    public User(String username, String password, String userId, String hashedPassword) {
+    public User(String username, String userId, String hashedPassword) {
         this.username = username;
-        this.password = password;
         this.userId = userId;
         this.hashedPassword = hashedPassword;
         this.tickets = new ArrayList<>();
@@ -29,9 +27,6 @@ public class User {
     // Getters and setters
     public String getUsername() { return username; }
     public void setUsername(String username) { this.username = username; }
-
-    public String getPassword() { return password; }
-    public void setPassword(String password) { this.password = password; }
 
     public String getUserId() { return userId; }
     public void setUserId(String userId) { this.userId = userId; }
