@@ -4,7 +4,6 @@ import com.fasterxml.jackson.core.type.TypeReference;
 import entities.User;
 
 import java.io.File;
-import java.io.IOException;
 import java.security.MessageDigest;
 import java.util.ArrayList;
 import java.util.List;
@@ -13,6 +12,8 @@ import static services.userService.FILE_PATH;
 import static services.userService.mapper;
 
 public class userUtil {
+
+    public static User curUser;
 
     public static List<User> readJson(){
         File file = new File(FILE_PATH);
@@ -55,4 +56,7 @@ public class userUtil {
         }
     }
 
+    public static Boolean isUserLoggedIn(){
+        return curUser != null;
+    }
 }
