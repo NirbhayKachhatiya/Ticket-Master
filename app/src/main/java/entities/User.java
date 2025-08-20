@@ -37,13 +37,4 @@ public class User {
     public List<Ticket> getTickets() { return tickets; }
     public void setTickets(List<Ticket> tickets) { this.tickets = tickets; }
 
-    // Optional: nice toString for debugging
-    @Override
-    public String toString() {
-        return "User{" +
-                "username='" + username + '\'' +
-                ", userId=" + userId +
-                ", tickets=" + tickets +
-                '}';
-    }
 }

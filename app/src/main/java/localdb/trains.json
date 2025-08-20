@@ -1,0 +1,122 @@
+[
+  {
+    "trainNo": 1,
+    "stations": ["Howrah", "Bardhaman", "Durgapur", "Asansol", "Dhanbad"],
+    "startDate": "01/08/2025",
+    "endDate": "02/08/2025"
+  },
+  {
+    "trainNo": 2,
+    "stations": ["Chennai Central", "Arakkonam", "Katpadi", "Salem", "Erode"],
+    "startDate": "03/08/2025",
+    "endDate": "04/08/2025"
+  },
+  {
+    "trainNo": 3,
+    "stations": ["Mumbai CST", "Thane", "Kalyan", "Nasik Road", "Manmad"],
+    "startDate": "05/08/2025",
+    "endDate": "06/08/2025"
+  },
+  {
+    "trainNo": 4,
+    "stations": ["Delhi", "Ghaziabad", "Meerut", "Muzaffarnagar", "Saharanpur"],
+    "startDate": "07/08/2025",
+    "endDate": "08/08/2025"
+  },
+  {
+    "trainNo": 5,
+    "stations": ["Bangalore City", "Tumkur", "Arsikere", "Davangere", "Hubli"],
+    "startDate": "09/08/2025",
+    "endDate": "10/08/2025"
+  },
+  {
+    "trainNo": 6,
+    "stations": ["Hyderabad", "Secunderabad", "Kazipet", "Warangal", "Khammam"],
+    "startDate": "11/08/2025",
+    "endDate": "12/08/2025"
+  },
+  {
+    "trainNo": 7,
+    "stations": ["Patna", "Buxar", "Arrah", "Mughalsarai", "Varanasi"],
+    "startDate": "13/08/2025",
+    "endDate": "14/08/2025"
+  },
+  {
+    "trainNo": 8,
+    "stations": ["Lucknow", "Unnao", "Kanpur", "Etawah", "Agra"],
+    "startDate": "15/08/2025",
+    "endDate": "16/08/2025"
+  },
+  {
+    "trainNo": 9,
+    "stations": ["Jaipur", "Ajmer", "Kishangarh", "Bhilwara", "Chittorgarh"],
+    "startDate": "17/08/2025",
+    "endDate": "18/08/2025"
+  },
+  {
+    "trainNo": 10,
+    "stations": ["Bhopal", "Vidisha", "Itarsi", "Hoshangabad", "Khandwa"],
+    "startDate": "19/08/2025",
+    "endDate": "20/08/2025"
+  },
+  {
+    "trainNo": 11,
+    "stations": ["Kolkata Sealdah", "Krishnanagar", "Berhampore", "Malda Town", "Raiganj"],
+    "startDate": "21/08/2025",
+    "endDate": "22/08/2025"
+  },
+  {
+    "trainNo": 12,
+    "stations": ["Guwahati", "Jagiroad", "Nagaon", "Diphu", "Lumding"],
+    "startDate": "23/08/2025",
+    "endDate": "24/08/2025"
+  },
+  {
+    "trainNo": 13,
+    "stations": ["Bhubaneswar", "Cuttack", "Khurda Road", "Berhampur", "Vizianagaram"],
+    "startDate": "25/08/2025",
+    "endDate": "26/08/2025"
+  },
+  {
+    "trainNo": 14,
+    "stations": ["Kochi Ernakulam", "Aluva", "Thrissur", "Palakkad", "Kozhikode"],
+    "startDate": "27/08/2025",
+    "endDate": "28/08/2025"
+  },
+  {
+    "trainNo": 15,
+    "stations": ["Panaji", "Thivim", "Karmali", "Margao", "Canacona"],
+    "startDate": "29/08/2025",
+    "endDate": "30/08/2025"
+  },
+  {
+    "trainNo": 16,
+    "stations": ["Ahmedabad", "Nadiad", "Anand", "Vadodara", "Bharuch"],
+    "startDate": "31/08/2025",
+    "endDate": "01/09/2025"
+  },
+  {
+    "trainNo": 17,
+    "stations": ["Shimla", "Solan", "Kalka", "Chandigarh", "Ambala"],
+    "startDate": "02/08/2025",
+    "endDate": "03/08/2025"
+  },
+  {
+    "trainNo": 18,
+    "stations": ["Ranchi", "Bokaro Steel City", "Chandrapura", "Dhanbad", "Asansol"],
+    "startDate": "04/08/2025",
+    "endDate": "05/08/2025"
+  },
+  {
+    "trainNo": 19,
+    "stations": ["Imphal", "Jiribam", "Silchar", "Badarpur", "Lumding"],
+    "startDate": "06/08/2025",
+    "endDate": "07/08/2025"
+  },
+  {
+    "trainNo": 20,
+    "stations": ["Shillong", "Guwahati", "Kamakhya", "Goalpara", "New Bongaigaon"],
+    "startDate": "08/08/2025",
+    "endDate": "09/08/2025"
+  }
+]
