@@ -48,6 +48,10 @@ public class userService {
         for(User user : users){
             if(user.getUsername().equals(username) && hashPassword(password).equals(user.getHashedPassword())){
                 curUser = user;
+                if(user.getUsername().equals("admin")){
+                    System.out.println("Welcome back admin.\n");
+                    return;
+                }
                 System.out.println("User successfully logged in.\n");
                 return;
             }

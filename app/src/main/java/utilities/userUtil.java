@@ -59,4 +59,8 @@ public class userUtil {
     public static Boolean isUserLoggedIn(){
         return curUser != null;
     }
+
+    public static Boolean isAdmin(){
+        return (isUserLoggedIn() && (curUser.getUsername().equals("admin")));
+    }
 }
