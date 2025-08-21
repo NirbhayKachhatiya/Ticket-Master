@@ -5,6 +5,7 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.UUID;
 
+import entities.Ticket;
 import entities.User;
 
 import static utilities.userUtil.*;
@@ -66,5 +67,10 @@ public class userService {
         }
         curUser = null;
         System.out.println("User successfully logged out.\n");
+    }
+
+    public static void addTicketToUser(Ticket ticket){
+        curUser.getTickets().add(ticket);
+        writeJson(users);
     }
 }

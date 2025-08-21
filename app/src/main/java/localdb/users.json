@@ -7,7 +7,13 @@
   "username" : "john",
   "userId" : "76c38ad4-f633-43a1-9119-0063eeb460ae",
   "hashedPassword" : "96d9632f363564cc3032521409cf22a852f2032eec099ed5967c0d000cec607a",
-  "tickets" : [ ]
+  "tickets" : [ {
+    "ticketId" : "ffe4e080-22ad-40fd-a59e-8f15de0841f1",
+    "userId" : "76c38ad4-f633-43a1-9119-0063eeb460ae",
+    "trainNo" : 147631,
+    "source" : "Chennai Central",
+    "destination" : "Bhubaneswar"
+  } ]
 }, {
   "username" : "admin",
   "userId" : "826da365-c4a4-40ef-b61a-55a45824a83b",

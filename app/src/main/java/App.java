@@ -14,15 +14,16 @@ public class App {
         System.out.println("5.Search trains");
         System.out.println("6.Get train details");
         System.out.println("7.Delete train");
-        System.out.println("8.Exit Application");
+        System.out.println("8.Book ticket");
+        System.out.println("9.Exit Application");
         System.out.println("Enter number");
     }
     public static void main(String[] args) {
         appInterface();
         Scanner sc = new Scanner(System.in);
         int id = sc.nextInt();
-        while(id!=8){
-            if(id>8 || id<1){
+        while(id!=9){
+            if(id>9 || id<1){
                 System.out.println("Please enter a number between 1 and 4");
                 appInterface();
                 id=sc.nextInt();
@@ -61,6 +62,11 @@ public class App {
                     }
                     case 7 -> {
                         deleteTrain();
+                        appInterface();
+                        yield sc.nextInt();
+                    }
+                    case 8 -> {
+                        bookTicket();
                         appInterface();
                         yield sc.nextInt();
                     }

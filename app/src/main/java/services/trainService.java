@@ -1,10 +1,12 @@
 package services;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import entities.Ticket;
 import entities.Train;
 
 import java.util.*;
 
+import static services.userService.addTicketToUser;
 import static utilities.trainUtil.*;
 import static utilities.userUtil.*;
 
@@ -74,22 +76,26 @@ public class trainService {
     public static void showTrains(){
         int count = 0;
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter Station Name :");
-        String stationName=sc.nextLine();
+        System.out.println("Enter source station :");
+        String src=sc.nextLine();
+        System.out.println("Enter destination station :");
+        String dest=sc.nextLine();
         for (Train train : trains){
-            if(train.getStations().contains(stationName)){
+            int srcInd=train.getStations().indexOf(src);
+            int dstInd=train.getStations().indexOf(dest);
+            if(srcInd!=-1 && srcInd<dstInd){
                 if (count == 0){
                     System.out.println("Following train(s) found (Train Number , Train Name) :");
                 }
                 System.out.println(train.getTrainNo()+" , "+train.getTrainName());
                 count++;
-
             }
         }
         if(count == 0){
             System.out.println("No trains found");
         }
     }
+
     public static void showTrainDetail(){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter Train Number :");
@@ -105,5 +111,48 @@ public class trainService {
             }
         }
         System.out.println("No trains found");
+    }
+
+    public static void bookTicket(){
+        if(!isUserLoggedIn()){
+            System.out.println("Please log in before booking a train.\n");
+            return;
+        }
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter train number:");
+        int trainNo=sc.nextInt();
+        Train currentTrain = new Train();
+        for(Train train : trains){
+            if(train.getTrainNo()==trainNo){
+                currentTrain = train;
+            }
+        }
+        if(currentTrain.getTrainName()==null){
+            System.out.println("No such train exists. Please try again");
+            return;
+        }
+        System.out.println(currentTrain.getTrainName());
+        int ind=1;
+        for(String station : currentTrain.getStations()){
+            System.out.println(ind+"."+station);
+            ind++;
+        }
+        ind--;
+        System.out.println("Enter source station (number):");
+        int srcInd=sc.nextInt();
+        System.out.println("Enter destination station (number):");
+        int destInd=sc.nextInt();
+        if(srcInd>ind || destInd>ind){
+            System.out.println("Invalid source or destination station number .");
+            return;
+        }
+        if(srcInd>=destInd){
+            System.out.println("Source station should be before the destination station.");
+            return;
+        }
+        String ticketId=UUID.randomUUID().toString();
+        Ticket ticket = new Ticket(ticketId,curUser.getUserId(),currentTrain.getTrainNo(),currentTrain.getStations().get(srcInd-1),currentTrain.getStations().get(destInd-1));
+        addTicketToUser(ticket);
+        System.out.println("Ticket Added successfully");
     }
 }
