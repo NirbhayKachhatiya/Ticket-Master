@@ -1,631 +1,301 @@
-[
-  {
-    "trainNo": 992134,
-    "trainName": "Deccan Queen",
-    "stations": [
-      "Bhopal Junction",
-      "Aizawl",
-      "Amritsar Junction",
-      "Secunderabad",
-      "New Delhi",
-      "Thiruvananthapuram Central"
-    ],
-    "startDate": "22/08/2025",
-    "endDate": "25/08/2025"
-  },
-  {
-    "trainNo": 965265,
-    "trainName": "Double Decker Express",
-    "stations": [
-      "Lucknow Charbagh",
-      "New Delhi",
-      "Panaji"
-    ],
-    "startDate": "20/08/2025",
-    "endDate": "21/08/2025"
-  },
-  {
-    "trainNo": 780948,
-    "trainName": "Vivek Express",
-    "stations": [
-      "Shimla",
-      "Ranchi Junction",
-      "Aizawl"
-    ],
-    "startDate": "14/08/2025",
-    "endDate": "17/08/2025"
-  },
-  {
-    "trainNo": 893806,
-    "trainName": "Utkal Express",
-    "stations": [
-      "Panaji",
-      "Lucknow Charbagh",
-      "Chennai Central"
-    ],
-    "startDate": "09/08/2025",
-    "endDate": "14/08/2025"
-  },
-  {
-    "trainNo": 669150,
-    "trainName": "Andhra Pradesh Express",
-    "stations": [
-      "Mumbai CST",
-      "Aizawl",
-      "Agartala",
-      "Lucknow Charbagh",
-      "Patna Junction",
-      "Howrah Junction"
-    ],
-    "startDate": "18/08/2025",
-    "endDate": "21/08/2025"
-  },
-  {
-    "trainNo": 299611,
-    "trainName": "Krishna Express",
-    "stations": [
-      "Jaipur Junction",
-      "Chennai Central",
-      "Dehradun",
-      "Mumbai CST",
-      "Aizawl"
-    ],
-    "startDate": "13/08/2025",
-    "endDate": "15/08/2025"
-  },
-  {
-    "trainNo": 264744,
-    "trainName": "Mumbai Rajdhani",
-    "stations": [
-      "Dehradun",
-      "Bhopal Junction",
-      "Panaji"
-    ],
-    "startDate": "12/08/2025",
-    "endDate": "16/08/2025"
-  },
-  {
-    "trainNo": 752531,
-    "trainName": "Satyagrah Express",
-    "stations": [
-      "Agartala",
-      "Ahmedabad Junction",
-      "Panaji"
-    ],
-    "startDate": "20/08/2025",
-    "endDate": "24/08/2025"
-  },
-  {
-    "trainNo": 175737,
-    "trainName": "Chhattisgarh Express",
-    "stations": [
-      "Bengaluru City",
-      "Aizawl",
-      "Jaipur Junction",
-      "Secunderabad"
-    ],
-    "startDate": "15/08/2025",
-    "endDate": "17/08/2025"
-  },
-  {
-    "trainNo": 181369,
-    "trainName": "Sampark Kranti Express",
-    "stations": [
-      "New Delhi",
-      "Ranchi Junction",
-      "Patna Junction",
-      "Jaipur Junction",
-      "Lucknow Charbagh",
-      "Bhubaneswar"
-    ],
-    "startDate": "07/08/2025",
-    "endDate": "11/08/2025"
-  },
-  {
-    "trainNo": 776225,
-    "trainName": "Antyodaya Express",
-    "stations": [
-      "Amritsar Junction",
-      "Agartala",
-      "Dehradun",
-      "Secunderabad",
-      "Aizawl",
-      "Bengaluru City"
-    ],
-    "startDate": "06/08/2025",
-    "endDate": "09/08/2025"
-  },
-  {
-    "trainNo": 857269,
-    "trainName": "Garib Rath Express",
-    "stations": [
-      "Ranchi Junction",
-      "Bhopal Junction",
-      "Shimla",
-      "Jaipur Junction",
-      "Howrah Junction",
-      "Dehradun"
-    ],
-    "startDate": "14/08/2025",
-    "endDate": "16/08/2025"
-  },
-  {
-    "trainNo": 856190,
-    "trainName": "Padmavati Express",
-    "stations": [
-      "Chennai Central",
-      "Howrah Junction",
-      "Agartala",
-      "Lucknow Charbagh",
-      "Bengaluru City"
-    ],
-    "startDate": "15/08/2025",
-    "endDate": "19/08/2025"
-  },
-  {
-    "trainNo": 598711,
-    "trainName": "Howrah Express",
-    "stations": [
-      "Chennai Central",
-      "New Delhi",
-      "Lucknow Charbagh",
-      "Ahmedabad Junction",
-      "Patna Junction"
-    ],
-    "startDate": "10/08/2025",
-    "endDate": "14/08/2025"
-  },
-  {
-    "trainNo": 333543,
-    "trainName": "Chennai Express",
-    "stations": [
-      "Bhopal Junction",
-      "Mumbai CST",
-      "Chennai Central",
-      "Thiruvananthapuram Central"
-    ],
-    "startDate": "02/08/2025",
-    "endDate": "04/08/2025"
-  },
-  {
-    "trainNo": 994589,
-    "trainName": "Intercity Express",
-    "stations": [
-      "Dehradun",
-      "Bengaluru City",
-      "Patna Junction",
-      "Ranchi Junction",
-      "Ahmedabad Junction"
-    ],
-    "startDate": "05/08/2025",
-    "endDate": "09/08/2025"
-  },
-  {
-    "trainNo": 448913,
-    "trainName": "Mangala Lakshadweep Express",
-    "stations": [
-      "Thiruvananthapuram Central",
-      "Agartala",
-      "Jaipur Junction",
-      "Patna Junction",
-      "Bhubaneswar"
-    ],
-    "startDate": "10/08/2025",
-    "endDate": "13/08/2025"
-  },
-  {
-    "trainNo": 602690,
-    "trainName": "Himalayan Queen",
-    "stations": [
-      "Secunderabad",
-      "Ahmedabad Junction",
-      "Agartala",
-      "Mumbai CST"
-    ],
-    "startDate": "11/08/2025",
-    "endDate": "16/08/2025"
-  },
-  {
-    "trainNo": 224196,
-    "trainName": "Duronto Express",
-    "stations": [
-      "Ahmedabad Junction",
-      "Lucknow Charbagh",
-      "Howrah Junction"
-    ],
-    "startDate": "15/08/2025",
-    "endDate": "19/08/2025"
-  },
-  {
-    "trainNo": 897020,
-    "trainName": "Sealdah Rajdhani",
-    "stations": [
-      "Mumbai CST",
-      "Howrah Junction",
-      "Jaipur Junction",
-      "Chennai Central",
-      "Bengaluru City"
-    ],
-    "startDate": "01/08/2025",
-    "endDate": "02/08/2025"
-  },
-  {
-    "trainNo": 295719,
-    "trainName": "Neelachal Express",
-    "stations": [
-      "New Delhi",
-      "Patna Junction",
-      "Bhubaneswar"
-    ],
-    "startDate": "05/08/2025",
-    "endDate": "08/08/2025"
-  },
-  {
-    "trainNo": 227487,
-    "trainName": "Avadh Express",
-    "stations": [
-      "Shimla",
-      "Agartala",
-      "Bengaluru City",
-      "Thiruvananthapuram Central"
-    ],
-    "startDate": "18/08/2025",
-    "endDate": "20/08/2025"
-  },
-  {
-    "trainNo": 512857,
-    "trainName": "Bilaspur Express",
-    "stations": [
-      "Ranchi Junction",
-      "Patna Junction",
-      "Aizawl",
-      "Shimla",
-      "Secunderabad",
-      "Bhubaneswar"
-    ],
-    "startDate": "15/08/2025",
-    "endDate": "18/08/2025"
-  },
-  {
-    "trainNo": 127097,
-    "trainName": "Yuva Express",
-    "stations": [
-      "Bhubaneswar",
-      "Dehradun",
-      "Howrah Junction",
-      "Mumbai CST",
-      "Patna Junction"
-    ],
-    "startDate": "07/08/2025",
-    "endDate": "08/08/2025"
-  },
-  {
-    "trainNo": 517924,
-    "trainName": "Visakha Express",
-    "stations": [
-      "Ranchi Junction",
-      "Panaji",
-      "Lucknow Charbagh",
-      "Bhubaneswar",
-      "Jaipur Junction"
-    ],
-    "startDate": "21/08/2025",
-    "endDate": "25/08/2025"
-  },
-  {
-    "trainNo": 899294,
-    "trainName": "Kavi Guru Express",
-    "stations": [
-      "Bengaluru City",
-      "New Delhi",
-      "Bhopal Junction",
-      "Bhubaneswar",
-      "Thiruvananthapuram Central"
-    ],
-    "startDate": "14/08/2025",
-    "endDate": "15/08/2025"
-  },
-  {
-    "trainNo": 670520,
-    "trainName": "Kashi Vishwanath Express",
-    "stations": [
-      "Agartala",
-      "Amritsar Junction",
-      "Dehradun",
-      "Ahmedabad Junction",
-      "Bhopal Junction"
-    ],
-    "startDate": "03/08/2025",
-    "endDate": "08/08/2025"
-  },
-  {
-    "trainNo": 260863,
-    "trainName": "Jan Shatabdi Express",
-    "stations": [
-      "Jaipur Junction",
-      "Secunderabad",
-      "Shimla",
-      "Ahmedabad Junction",
-      "Panaji"
-    ],
-    "startDate": "22/08/2025",
-    "endDate": "26/08/2025"
-  },
-  {
-    "trainNo": 267409,
-    "trainName": "Jhelum Express",
-    "stations": [
-      "New Delhi",
-      "Bhubaneswar",
-      "Bhopal Junction",
-      "Howrah Junction",
-      "Shimla"
-    ],
-    "startDate": "09/08/2025",
-    "endDate": "12/08/2025"
-  },
-  {
-    "trainNo": 441651,
-    "trainName": "Uday Express",
-    "stations": [
-      "Agartala",
-      "Lucknow Charbagh",
-      "Ranchi Junction",
-      "Chennai Central",
-      "Shimla"
-    ],
-    "startDate": "04/08/2025",
-    "endDate": "05/08/2025"
-  },
-  {
-    "trainNo": 651093,
-    "trainName": "Jansadharan Express",
-    "stations": [
-      "Bengaluru City",
-      "Secunderabad",
-      "Lucknow Charbagh",
-      "Panaji",
-      "Mumbai CST",
-      "Ahmedabad Junction"
-    ],
-    "startDate": "18/08/2025",
-    "endDate": "21/08/2025"
-  },
-  {
-    "trainNo": 904937,
-    "trainName": "Thirukkural Express",
-    "stations": [
-      "Ranchi Junction",
-      "Mumbai CST",
-      "Aizawl"
-    ],
-    "startDate": "12/08/2025",
-    "endDate": "16/08/2025"
-  },
-  {
-    "trainNo": 571686,
-    "trainName": "Bhopal Shatabdi",
-    "stations": [
-      "Dehradun",
-      "Aizawl",
-      "Jaipur Junction",
-      "Bhopal Junction",
-      "Lucknow Charbagh"
-    ],
-    "startDate": "19/08/2025",
-    "endDate": "22/08/2025"
-  },
-  {
-    "trainNo": 545790,
-    "trainName": "Ajmer Shatabdi",
-    "stations": [
-      "Bhubaneswar",
-      "Secunderabad",
-      "New Delhi",
-      "Agartala",
-      "Jaipur Junction"
-    ],
-    "startDate": "12/08/2025",
-    "endDate": "13/08/2025"
-  },
-  {
-    "trainNo": 816426,
-    "trainName": "Sapt Kranti Express",
-    "stations": [
-      "Dehradun",
-      "Ahmedabad Junction",
-      "Secunderabad",
-      "Bhubaneswar",
-      "Bengaluru City"
-    ],
-    "startDate": "20/08/2025",
-    "endDate": "22/08/2025"
-  },
-  {
-    "trainNo": 636826,
-    "trainName": "Tamil Nadu Express",
-    "stations": [
-      "Secunderabad",
-      "Bhopal Junction",
-      "Panaji",
-      "Dehradun",
-      "Ahmedabad Junction"
-    ],
-    "startDate": "12/08/2025",
-    "endDate": "16/08/2025"
-  },
-  {
-    "trainNo": 598456,
-    "trainName": "Humsafar Express",
-    "stations": [
-      "Aizawl",
-      "Chennai Central",
-      "Ahmedabad Junction",
-      "Ranchi Junction"
-    ],
-    "startDate": "01/08/2025",
-    "endDate": "02/08/2025"
-  },
-  {
-    "trainNo": 576132,
-    "trainName": "Godavari Express",
-    "stations": [
-      "Ahmedabad Junction",
-      "Bhubaneswar",
-      "Panaji"
-    ],
-    "startDate": "08/08/2025",
-    "endDate": "09/08/2025"
-  },
-  {
-    "trainNo": 147631,
-    "trainName": "Ananya Express",
-    "stations": [
-      "Chennai Central",
-      "Bengaluru City",
-      "Shimla",
-      "Patna Junction",
-      "Bhopal Junction",
-      "Bhubaneswar"
-    ],
-    "startDate": "12/08/2025",
-    "endDate": "17/08/2025"
-  },
-  {
-    "trainNo": 730833,
-    "trainName": "Suryanagari Express",
-    "stations": [
-      "Dehradun",
-      "Bengaluru City",
-      "Chennai Central",
-      "Ranchi Junction"
-    ],
-    "startDate": "07/08/2025",
-    "endDate": "11/08/2025"
-  },
-  {
-    "trainNo": 410136,
-    "trainName": "Rourkela Express",
-    "stations": [
-      "Bhopal Junction",
-      "Lucknow Charbagh",
-      "Howrah Junction"
-    ],
-    "startDate": "01/08/2025",
-    "endDate": "03/08/2025"
-  },
-  {
-    "trainNo": 600958,
-    "trainName": "Amritsar Express",
-    "stations": [
-      "Ahmedabad Junction",
-      "Thiruvananthapuram Central",
-      "Ranchi Junction",
-      "Bhubaneswar",
-      "Mumbai CST"
-    ],
-    "startDate": "25/08/2025",
-    "endDate": "28/08/2025"
-  },
-  {
-    "trainNo": 479058,
-    "trainName": "August Kranti Rajdhani",
-    "stations": [
-      "Lucknow Charbagh",
-      "Amritsar Junction",
-      "Chennai Central"
-    ],
-    "startDate": "01/08/2025",
-    "endDate": "02/08/2025"
-  },
-  {
-    "trainNo": 243248,
-    "trainName": "Mahamana Express",
-    "stations": [
-      "Agartala",
-      "Bhubaneswar",
-      "Dehradun",
-      "Secunderabad",
-      "Howrah Junction"
-    ],
-    "startDate": "08/08/2025",
-    "endDate": "10/08/2025"
-  },
-  {
-    "trainNo": 508425,
-    "trainName": "Taj Express",
-    "stations": [
-      "New Delhi",
-      "Chennai Central",
-      "Secunderabad",
-      "Bhopal Junction",
-      "Panaji"
-    ],
-    "startDate": "15/08/2025",
-    "endDate": "17/08/2025"
-  },
-  {
-    "trainNo": 928227,
-    "trainName": "Kerala Express",
-    "stations": [
-      "Bengaluru City",
-      "Ranchi Junction",
-      "Ahmedabad Junction",
-      "Bhopal Junction",
-      "Dehradun"
-    ],
-    "startDate": "16/08/2025",
-    "endDate": "21/08/2025"
-  },
-  {
-    "trainNo": 289010,
-    "trainName": "Karnataka Express",
-    "stations": [
-      "Shimla",
-      "Bengaluru City",
-      "Aizawl",
-      "Amritsar Junction",
-      "Thiruvananthapuram Central",
-      "Dehradun"
-    ],
-    "startDate": "07/08/2025",
-    "endDate": "10/08/2025"
-  },
-  {
-    "trainNo": 599713,
-    "trainName": "Mahamana Express",
-    "stations": [
-      "Howrah Junction",
-      "Lucknow Charbagh",
-      "Shimla",
-      "Bhopal Junction"
-    ],
-    "startDate": "09/08/2025",
-    "endDate": "13/08/2025"
-  },
-  {
-    "trainNo": 242167,
-    "trainName": "Goa Express",
-    "stations": [
-      "Secunderabad",
-      "Dehradun",
-      "Ranchi Junction",
-      "Agartala",
-      "New Delhi",
-      "Patna Junction"
-    ],
-    "startDate": "04/08/2025",
-    "endDate": "09/08/2025"
-  },
-  {
-    "trainNo": 875736,
-    "trainName": "Vande Bharat Express",
-    "stations": [
-      "Lucknow Charbagh",
-      "Bhubaneswar",
-      "Patna Junction"
-    ],
-    "startDate": "05/08/2025",
-    "endDate": "09/08/2025"
-  }
-]
+[ {
+  "trainNo" : 992134,
+  "trainName" : "Deccan Queen",
+  "stations" : [ "Bhopal Junction", "Aizawl", "Amritsar Junction", "Secunderabad", "New Delhi", "Thiruvananthapuram Central" ],
+  "startDate" : "22/08/2025",
+  "endDate" : "25/08/2025"
+}, {
+  "trainNo" : 965265,
+  "trainName" : "Double Decker Express",
+  "stations" : [ "Lucknow Charbagh", "New Delhi", "Panaji" ],
+  "startDate" : "20/08/2025",
+  "endDate" : "21/08/2025"
+}, {
+  "trainNo" : 780948,
+  "trainName" : "Vivek Express",
+  "stations" : [ "Shimla", "Ranchi Junction", "Aizawl" ],
+  "startDate" : "14/08/2025",
+  "endDate" : "17/08/2025"
+}, {
+  "trainNo" : 893806,
+  "trainName" : "Utkal Express",
+  "stations" : [ "Panaji", "Lucknow Charbagh", "Chennai Central" ],
+  "startDate" : "09/08/2025",
+  "endDate" : "14/08/2025"
+}, {
+  "trainNo" : 669150,
+  "trainName" : "Andhra Pradesh Express",
+  "stations" : [ "Mumbai CST", "Aizawl", "Agartala", "Lucknow Charbagh", "Patna Junction", "Howrah Junction" ],
+  "startDate" : "18/08/2025",
+  "endDate" : "21/08/2025"
+}, {
+  "trainNo" : 299611,
+  "trainName" : "Krishna Express",
+  "stations" : [ "Jaipur Junction", "Chennai Central", "Dehradun", "Mumbai CST", "Aizawl" ],
+  "startDate" : "13/08/2025",
+  "endDate" : "15/08/2025"
+}, {
+  "trainNo" : 264744,
+  "trainName" : "Mumbai Rajdhani",
+  "stations" : [ "Dehradun", "Bhopal Junction", "Panaji" ],
+  "startDate" : "12/08/2025",
+  "endDate" : "16/08/2025"
+}, {
+  "trainNo" : 752531,
+  "trainName" : "Satyagrah Express",
+  "stations" : [ "Agartala", "Ahmedabad Junction", "Panaji" ],
+  "startDate" : "20/08/2025",
+  "endDate" : "24/08/2025"
+}, {
+  "trainNo" : 175737,
+  "trainName" : "Chhattisgarh Express",
+  "stations" : [ "Bengaluru City", "Aizawl", "Jaipur Junction", "Secunderabad" ],
+  "startDate" : "15/08/2025",
+  "endDate" : "17/08/2025"
+}, {
+  "trainNo" : 181369,
+  "trainName" : "Sampark Kranti Express",
+  "stations" : [ "New Delhi", "Ranchi Junction", "Patna Junction", "Jaipur Junction", "Lucknow Charbagh", "Bhubaneswar" ],
+  "startDate" : "07/08/2025",
+  "endDate" : "11/08/2025"
+}, {
+  "trainNo" : 776225,
+  "trainName" : "Antyodaya Express",
+  "stations" : [ "Amritsar Junction", "Agartala", "Dehradun", "Secunderabad", "Aizawl", "Bengaluru City" ],
+  "startDate" : "06/08/2025",
+  "endDate" : "09/08/2025"
+}, {
+  "trainNo" : 857269,
+  "trainName" : "Garib Rath Express",
+  "stations" : [ "Ranchi Junction", "Bhopal Junction", "Shimla", "Jaipur Junction", "Howrah Junction", "Dehradun" ],
+  "startDate" : "14/08/2025",
+  "endDate" : "16/08/2025"
+}, {
+  "trainNo" : 856190,
+  "trainName" : "Padmavati Express",
+  "stations" : [ "Chennai Central", "Howrah Junction", "Agartala", "Lucknow Charbagh", "Bengaluru City" ],
+  "startDate" : "15/08/2025",
+  "endDate" : "19/08/2025"
+}, {
+  "trainNo" : 598711,
+  "trainName" : "Howrah Express",
+  "stations" : [ "Chennai Central", "New Delhi", "Lucknow Charbagh", "Ahmedabad Junction", "Patna Junction" ],
+  "startDate" : "10/08/2025",
+  "endDate" : "14/08/2025"
+}, {
+  "trainNo" : 333543,
+  "trainName" : "Chennai Express",
+  "stations" : [ "Bhopal Junction", "Mumbai CST", "Chennai Central", "Thiruvananthapuram Central" ],
+  "startDate" : "02/08/2025",
+  "endDate" : "04/08/2025"
+}, {
+  "trainNo" : 994589,
+  "trainName" : "Intercity Express",
+  "stations" : [ "Dehradun", "Bengaluru City", "Patna Junction", "Ranchi Junction", "Ahmedabad Junction" ],
+  "startDate" : "05/08/2025",
+  "endDate" : "09/08/2025"
+}, {
+  "trainNo" : 448913,
+  "trainName" : "Mangala Lakshadweep Express",
+  "stations" : [ "Thiruvananthapuram Central", "Agartala", "Jaipur Junction", "Patna Junction", "Bhubaneswar" ],
+  "startDate" : "10/08/2025",
+  "endDate" : "13/08/2025"
+}, {
+  "trainNo" : 602690,
+  "trainName" : "Himalayan Queen",
+  "stations" : [ "Secunderabad", "Ahmedabad Junction", "Agartala", "Mumbai CST" ],
+  "startDate" : "11/08/2025",
+  "endDate" : "16/08/2025"
+}, {
+  "trainNo" : 224196,
+  "trainName" : "Duronto Express",
+  "stations" : [ "Ahmedabad Junction", "Lucknow Charbagh", "Howrah Junction" ],
+  "startDate" : "15/08/2025",
+  "endDate" : "19/08/2025"
+}, {
+  "trainNo" : 897020,
+  "trainName" : "Sealdah Rajdhani",
+  "stations" : [ "Mumbai CST", "Howrah Junction", "Jaipur Junction", "Chennai Central", "Bengaluru City" ],
+  "startDate" : "01/08/2025",
+  "endDate" : "02/08/2025"
+}, {
+  "trainNo" : 295719,
+  "trainName" : "Neelachal Express",
+  "stations" : [ "New Delhi", "Patna Junction", "Bhubaneswar" ],
+  "startDate" : "05/08/2025",
+  "endDate" : "08/08/2025"
+}, {
+  "trainNo" : 227487,
+  "trainName" : "Avadh Express",
+  "stations" : [ "Shimla", "Agartala", "Bengaluru City", "Thiruvananthapuram Central" ],
+  "startDate" : "18/08/2025",
+  "endDate" : "20/08/2025"
+}, {
+  "trainNo" : 512857,
+  "trainName" : "Bilaspur Express",
+  "stations" : [ "Ranchi Junction", "Patna Junction", "Aizawl", "Shimla", "Secunderabad", "Bhubaneswar" ],
+  "startDate" : "15/08/2025",
+  "endDate" : "18/08/2025"
+}, {
+  "trainNo" : 127097,
+  "trainName" : "Yuva Express",
+  "stations" : [ "Bhubaneswar", "Dehradun", "Howrah Junction", "Mumbai CST", "Patna Junction" ],
+  "startDate" : "07/08/2025",
+  "endDate" : "08/08/2025"
+}, {
+  "trainNo" : 517924,
+  "trainName" : "Visakha Express",
+  "stations" : [ "Ranchi Junction", "Panaji", "Lucknow Charbagh", "Bhubaneswar", "Jaipur Junction" ],
+  "startDate" : "21/08/2025",
+  "endDate" : "25/08/2025"
+}, {
+  "trainNo" : 899294,
+  "trainName" : "Kavi Guru Express",
+  "stations" : [ "Bengaluru City", "New Delhi", "Bhopal Junction", "Bhubaneswar", "Thiruvananthapuram Central" ],
+  "startDate" : "14/08/2025",
+  "endDate" : "15/08/2025"
+}, {
+  "trainNo" : 670520,
+  "trainName" : "Kashi Vishwanath Express",
+  "stations" : [ "Agartala", "Amritsar Junction", "Dehradun", "Ahmedabad Junction", "Bhopal Junction" ],
+  "startDate" : "03/08/2025",
+  "endDate" : "08/08/2025"
+}, {
+  "trainNo" : 260863,
+  "trainName" : "Jan Shatabdi Express",
+  "stations" : [ "Jaipur Junction", "Secunderabad", "Shimla", "Ahmedabad Junction", "Panaji" ],
+  "startDate" : "22/08/2025",
+  "endDate" : "26/08/2025"
+}, {
+  "trainNo" : 267409,
+  "trainName" : "Jhelum Express",
+  "stations" : [ "New Delhi", "Bhubaneswar", "Bhopal Junction", "Howrah Junction", "Shimla" ],
+  "startDate" : "09/08/2025",
+  "endDate" : "12/08/2025"
+}, {
+  "trainNo" : 441651,
+  "trainName" : "Uday Express",
+  "stations" : [ "Agartala", "Lucknow Charbagh", "Ranchi Junction", "Chennai Central", "Shimla" ],
+  "startDate" : "04/08/2025",
+  "endDate" : "05/08/2025"
+}, {
+  "trainNo" : 651093,
+  "trainName" : "Jansadharan Express",
+  "stations" : [ "Bengaluru City", "Secunderabad", "Lucknow Charbagh", "Panaji", "Mumbai CST", "Ahmedabad Junction" ],
+  "startDate" : "18/08/2025",
+  "endDate" : "21/08/2025"
+}, {
+  "trainNo" : 904937,
+  "trainName" : "Thirukkural Express",
+  "stations" : [ "Ranchi Junction", "Mumbai CST", "Aizawl" ],
+  "startDate" : "12/08/2025",
+  "endDate" : "16/08/2025"
+}, {
+  "trainNo" : 571686,
+  "trainName" : "Bhopal Shatabdi",
+  "stations" : [ "Dehradun", "Aizawl", "Jaipur Junction", "Bhopal Junction", "Lucknow Charbagh" ],
+  "startDate" : "19/08/2025",
+  "endDate" : "22/08/2025"
+}, {
+  "trainNo" : 545790,
+  "trainName" : "Ajmer Shatabdi",
+  "stations" : [ "Bhubaneswar", "Secunderabad", "New Delhi", "Agartala", "Jaipur Junction" ],
+  "startDate" : "12/08/2025",
+  "endDate" : "13/08/2025"
+}, {
+  "trainNo" : 816426,
+  "trainName" : "Sapt Kranti Express",
+  "stations" : [ "Dehradun", "Ahmedabad Junction", "Secunderabad", "Bhubaneswar", "Bengaluru City" ],
+  "startDate" : "20/08/2025",
+  "endDate" : "22/08/2025"
+}, {
+  "trainNo" : 636826,
+  "trainName" : "Tamil Nadu Express",
+  "stations" : [ "Secunderabad", "Bhopal Junction", "Panaji", "Dehradun", "Ahmedabad Junction" ],
+  "startDate" : "12/08/2025",
+  "endDate" : "16/08/2025"
+}, {
+  "trainNo" : 598456,
+  "trainName" : "Humsafar Express",
+  "stations" : [ "Aizawl", "Chennai Central", "Ahmedabad Junction", "Ranchi Junction" ],
+  "startDate" : "01/08/2025",
+  "endDate" : "02/08/2025"
+}, {
+  "trainNo" : 576132,
+  "trainName" : "Godavari Express",
+  "stations" : [ "Ahmedabad Junction", "Bhubaneswar", "Panaji" ],
+  "startDate" : "08/08/2025",
+  "endDate" : "09/08/2025"
+}, {
+  "trainNo" : 147631,
+  "trainName" : "Ananya Express",
+  "stations" : [ "Chennai Central", "Bengaluru City", "Shimla", "Patna Junction", "Bhopal Junction", "Bhubaneswar" ],
+  "startDate" : "12/08/2025",
+  "endDate" : "17/08/2025"
+}, {
+  "trainNo" : 730833,
+  "trainName" : "Suryanagari Express",
+  "stations" : [ "Dehradun", "Bengaluru City", "Chennai Central", "Ranchi Junction" ],
+  "startDate" : "07/08/2025",
+  "endDate" : "11/08/2025"
+}, {
+  "trainNo" : 410136,
+  "trainName" : "Rourkela Express",
+  "stations" : [ "Bhopal Junction", "Lucknow Charbagh", "Howrah Junction" ],
+  "startDate" : "01/08/2025",
+  "endDate" : "03/08/2025"
+}, {
+  "trainNo" : 600958,
+  "trainName" : "Amritsar Express",
+  "stations" : [ "Ahmedabad Junction", "Thiruvananthapuram Central", "Ranchi Junction", "Bhubaneswar", "Mumbai CST" ],
+  "startDate" : "25/08/2025",
+  "endDate" : "28/08/2025"
+}, {
+  "trainNo" : 479058,
+  "trainName" : "August Kranti Rajdhani",
+  "stations" : [ "Lucknow Charbagh", "Amritsar Junction", "Chennai Central" ],
+  "startDate" : "01/08/2025",
+  "endDate" : "02/08/2025"
+}, {
+  "trainNo" : 243248,
+  "trainName" : "Mahamana Express",
+  "stations" : [ "Agartala", "Bhubaneswar", "Dehradun", "Secunderabad", "Howrah Junction" ],
+  "startDate" : "08/08/2025",
+  "endDate" : "10/08/2025"
+}, {
+  "trainNo" : 508425,
+  "trainName" : "Taj Express",
+  "stations" : [ "New Delhi", "Chennai Central", "Secunderabad", "Bhopal Junction", "Panaji" ],
+  "startDate" : "15/08/2025",
+  "endDate" : "17/08/2025"
+}, {
+  "trainNo" : 928227,
+  "trainName" : "Kerala Express",
+  "stations" : [ "Bengaluru City", "Ranchi Junction", "Ahmedabad Junction", "Bhopal Junction", "Dehradun" ],
+  "startDate" : "16/08/2025",
+  "endDate" : "21/08/2025"
+}, {
+  "trainNo" : 289010,
+  "trainName" : "Karnataka Express",
+  "stations" : [ "Shimla", "Bengaluru City", "Aizawl", "Amritsar Junction", "Thiruvananthapuram Central", "Dehradun" ],
+  "startDate" : "07/08/2025",
+  "endDate" : "10/08/2025"
+}, {
+  "trainNo" : 599713,
+  "trainName" : "Mahamana Express",
+  "stations" : [ "Howrah Junction", "Lucknow Charbagh", "Shimla", "Bhopal Junction" ],
+  "startDate" : "09/08/2025",
+  "endDate" : "13/08/2025"
+}, {
+  "trainNo" : 242167,
+  "trainName" : "Goa Express",
+  "stations" : [ "Secunderabad", "Dehradun", "Ranchi Junction", "Agartala", "New Delhi", "Patna Junction" ],
+  "startDate" : "04/08/2025",
+  "endDate" : "09/08/2025"
+}, {
+  "trainNo" : 875736,
+  "trainName" : "Vande Bharat Express",
+  "stations" : [ "Lucknow Charbagh", "Bhubaneswar", "Patna Junction" ],
+  "startDate" : "05/08/2025",
+  "endDate" : "09/08/2025"
+} ]

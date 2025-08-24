@@ -73,4 +73,10 @@ public class userService {
         curUser.getTickets().add(ticket);
         writeJson(users);
     }
+
+    public static void deleteTicketFromUser(Ticket ticket){
+        curUser.getTickets().remove(ticket);
+        writeJson(users);
+    }
+
 }

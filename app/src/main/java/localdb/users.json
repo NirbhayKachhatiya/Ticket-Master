@@ -8,11 +8,11 @@
   "userId" : "76c38ad4-f633-43a1-9119-0063eeb460ae",
   "hashedPassword" : "96d9632f363564cc3032521409cf22a852f2032eec099ed5967c0d000cec607a",
   "tickets" : [ {
-    "ticketId" : "ffe4e080-22ad-40fd-a59e-8f15de0841f1",
+    "ticketId" : "2bf66a43-2366-48ee-aa9b-acea28fd606c",
     "userId" : "76c38ad4-f633-43a1-9119-0063eeb460ae",
-    "trainNo" : 147631,
-    "source" : "Chennai Central",
-    "destination" : "Bhubaneswar"
+    "trainNo" : 875736,
+    "source" : "Lucknow Charbagh",
+    "destination" : "Patna Junction"
   } ]
 }, {
   "username" : "admin",
